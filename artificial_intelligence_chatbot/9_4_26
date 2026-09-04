@@ -1,2 +1,28 @@
 watson assistant
 n8n
+comando cmd entra no terminal
+comando para verificar a versão do Node-red npm list -g node-red
+comando para instalar o node em casa npm install -g node-red
+antes de tdo instalar Node.Js no pc
+inserir node-red e abrir uma localhost 1880 (local aonde fica o fluxo)
+
+instalar "nós"
+@flowfuse/node-red-dashboard
+1.30.2
+node-red
+4.1.10
+node-red-contrib-browser-utils
+0.0.11
+node-red-contrib-play-audio
+2.5.0
+node-red-contrib-telegrambot
+17.1.3
+node-red-dashboard
+3.6.6
+node-red-node-arduino
+1.4.0
+node-red-node-watson
+0.10.4
+MODULE_NOT_FOUND
+MODULE_NOT_FOUND
+node-red-node-sqlite
